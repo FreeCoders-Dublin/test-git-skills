@@ -5,6 +5,7 @@ ciao
 proviamo
 a
 vedere
+nuova riga
 valerio
 valeri
 valer
@@ -26,7 +27,7 @@ TEST FRAN DOPO PUSH VALERIO
 a
 a
 
-aeeeeeeeeeekekekekekekekekekekekekekekeseserete
+a
 a
 
 a
@@ -42,3 +43,7 @@ Prova 2
 </script>
 -----------------------------------------------2
 valerio was here!
+valerio
+valeri
+valer
+valer
