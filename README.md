@@ -29,5 +29,8 @@ a;
 <script>
 Prova
 </script>
+<script>
+Prova 2
+</script>
 -----------------------------------------------2
 valerio was here!
