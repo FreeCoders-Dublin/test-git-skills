@@ -5,6 +5,10 @@ ciao
 proviamo
 a
 vedere
+valerio
+valeri
+valer
+vale
 -----------------------------------------------1
 Fran was here! And I created a file too :-D
 console.log ('que rica la verga!!!');
@@ -22,7 +26,7 @@ TEST FRAN DOPO PUSH VALERIO
 a
 a
 
-a
+aeeeeeeeeeekekekekekekekekekekekekekekeseserete
 a
 
 a
