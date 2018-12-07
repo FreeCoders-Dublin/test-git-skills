@@ -6,6 +6,10 @@ proviamo
 a
 vedere
 nuova riga
+valerio
+valeri
+valer
+vale
 -----------------------------------------------1
 Fran was here! And I created a file too :-D
 console.log ('que rica la verga!!!');
@@ -23,7 +27,7 @@ a
 a
 a
 
-a
+aeeeeeeeeeekekekekekekekekekekekekekekeseserete
 a
 
 a
